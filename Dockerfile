@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1
 # Icinga 2 Docker image | (c) 2020 Icinga GmbH | GPLv2+
 
 FROM golang:bullseye as entrypoint
